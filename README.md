@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Web Development**, **Mobile Development**
 - 🌱 I’m currently learning **React Native**
 - 📫 How to reach me: **bartoszmazurowski@outlook.com**
-- 😄 Pronouns: **He/Him
+- 😄 Pronouns: **He/Him**
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
